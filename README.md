@@ -1,16 +1,23 @@
-## Hi there 👋
+# Rahul Kashyap
 
-<!--
-**DexterslabAi/DexterslabAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-native product owner and solution architect in finance transformation.** Dublin, Ireland.
 
-Here are some ideas to get you started:
+I spend my days where finance operations meet AI: process redesign, ERP and P2P governance, and the agentic tools that take the manual work out of them. I build those tools myself with Claude, Claude Code, RAG and MCP, and I care about the part most demos skip: making AI output verifiable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+
+**[Resume Genie](https://github.com/DexterslabAi/resume-genie)**: a Claude skill pack that turns a CV and a job advert into a truthful, ATS-ready application.
+
+- Claude does the judgement and writing; deterministic Python does everything that must be exact
+- Calculated ATS scores instead of guesses, and a fabrication guardrail that blocks invented numbers, employers and dates
+- An adversarial evaluation suite in CI, plus Word output in 4 templates and 8 regional formats
+
+![Resume Genie demo](https://raw.githubusercontent.com/DexterslabAi/resume-genie/main/docs/images/demo.gif)
+
+### What I work with
+
+`Claude` · `Claude Code` · `Agent Skills` · `MCP` · `RAG` · `Python` · `SAP S/4HANA` · `P2P / R2R` · `Finance transformation` · `GBS operations`
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/drahulkashyap90)
